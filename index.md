@@ -1,10 +1,10 @@
 ## Hey 👋, I'm 42784XM!  
-
+  
 
 <a href="https://github.com/42784" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-
+  
 
 
 
@@ -22,10 +22,13 @@ I focus on in-depth exploration of technology. I like to design lightweight but 
 
 - 🔭 I’m currently working on Java(It is so fun)  
   
+
 - 🌱 I’m currently learning Java  
   
-- ❓ Ask me about anything related to Java stack and related technologies  
+
+- ❓ Ask me about anything related to Java technologies 
   
+
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
@@ -57,17 +60,14 @@ I focus on in-depth exploration of technology. I like to design lightweight but 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42784&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+  
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=42784&&style=flat-square)  
-
+  
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
